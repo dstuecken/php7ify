@@ -33,7 +33,7 @@ composer require dstuecken/php7ify
 
 # Usage
 
-Just use the new \Throwable interface in your php 5 project, or catch an \ErrorException.
+Just use the new \Throwable interface in your php 5 project, or catch an \Error exception.
 
 ```php
 try 
