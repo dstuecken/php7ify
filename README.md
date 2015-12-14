@@ -1,6 +1,6 @@
 # php7ify
 
-php7ify is a project that brings new php7 classes and exceptions to php 5.x
+php7ify is a project that brings new php7 classes, functions and exceptions to php 5.x
 
 [![Build Status](https://travis-ci.org/dstuecken/php7ify.svg)](https://travis-ci.org/dstuecken/php7ify)
 [![License](https://poser.pugx.org/dstuecken/php7ify/license)](https://packagist.org/packages/dstuecken/php7ify)
