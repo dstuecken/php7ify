@@ -1,17 +1,11 @@
 <?php
 namespace php7ifytest;
 
+use PHPUnit\Framework\TestCase;
 use dstuecken\Php7ify\Php7\Compatibility;
 
-Class Php7CheckTest
-    extends \PHPUnit_Framework_TestCase
+Class Php7CheckTest extends TestCase
 {
-
-    public function setUp()
-    {
-
-    }
-
     public function testPhpVersion()
     {
         if (PHP_VERSION_ID >= 70000)
