@@ -1,15 +1,10 @@
 <?php
 namespace php7ifytest;
 
-Class ParseErrorTest
-    extends \PHPUnit_Framework_TestCase
+use PHPUnit\Framework\TestCase;
+
+Class ParseErrorTest extends TestCase
 {
-
-    public function setUp()
-    {
-
-    }
-
     public function testThrowException()
     {
         try
