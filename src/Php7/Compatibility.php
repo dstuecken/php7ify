@@ -5,7 +5,7 @@ namespace dstuecken\Php7ify\Php7;
  * Php7 compatibility checks for php 5.x projects
  *
  * @package dstuecken\php7ify
- * @author Dennis Stücken <dstuecken@i-doit.com>
+ * @author Dennis Stücken <dstuecken@me.com>
  *
  * @since 7.0
  */
